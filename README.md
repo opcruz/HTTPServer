@@ -1,3 +1,5 @@
+[![Docker Image CI](https://github.com/opcruz/HTTPServer/actions/workflows/docker-image.yml/badge.svg)](https://github.com/opcruz/HTTPServer/actions/workflows/docker-image.yml)
+
 # Simple HTTP Server in Java in a Docker
 
 Just for CI Pipeline testing.
