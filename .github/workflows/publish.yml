@@ -14,6 +14,6 @@ jobs:
         with:
           username: opcruz
           password: ${{ secrets.GITHUB_TOKEN }}
-          registry: docker.pkg.github.com
-          repository: opcruz/publish-packages/game
+          registry: ghcr.io
+          repository: opcruz/simple-java-server
           tag_with_sha: true
